@@ -23,7 +23,5 @@ The IoT system for providing melon nutrition based on PPM values ​​is a syst
 
 This system has several advantages, including:
 <ul>
-<li>Can provide proper nutrition according to plant needs.<li>
-<li>Can save fertilizer and water costs.<li>
-<li>Can reduce the risk of plant damage due to excessive fertilizer or water application.<li>
+<li>Can provide proper nutrition according to plant needs.<li><li>Can save fertilizer and water costs.<li><li>Can reduce the risk of plant damage due to excessive fertilizer or water application.<li>
 <ul>
