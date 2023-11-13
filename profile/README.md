@@ -12,11 +12,14 @@
 
 Hello everyone 😊, we are from Team 1. We consist of 4 people and these are our team members.
 
-|               Name                |     Class     |
-| :-------------------------------: | :-----------: |
-|    Mochammad Wildan Alghifari     |     4IA01     |
+|               Name                |     Class     |                               Linkedin                                  |
+| :-------------------------------: | :-----------: | :---------------------------------------------------------------------: |
+|    Mochammad Wildan Alghifari     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/mochammad-wildan-alghifari/) |
 
 <br>
+
+## Theme ✈️
+Agriculture, Automatic Controller
 
 ## Project Description 📕
 The IoT system for providing melon nutrition based on PPM values ​​is a system that uses PPM sensors to measure nutrient concentrations in irrigation water. The measurement results data is then sent to the server via the Wi-Fi module. The server will process the data and determine whether fertilizer or water needs to be applied. If necessary, the server will send commands to Arduino to activate the fertilizer or water pump.
