@@ -5,7 +5,6 @@
 <h3 align="center">Program Kompetisi Kampus Merdeka 2023 Universitas Gunadarma</h3>
 <h4 align="center">Created by : Team 1</h4>
 <br>
-
 ## Introduction 👋
 
 ### Team 1 : IOT system for providing melon nutrition based on PPM values
@@ -15,13 +14,14 @@ Hello everyone 😊, we are from Team 1. We consist of 4 people and these are ou
 |               Name                |     Class     |                               Linkedin                                  |
 | :-------------------------------: | :-----------: | :---------------------------------------------------------------------: |
 |    Mochammad Wildan Alghifari     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/mochammad-wildan-alghifari/) |
-
 <br>
 
 ## Theme ✈️
+
 Agriculture, Automatic Controller
 
 ## Project Description 📕
+
 The IoT system for providing melon nutrition based on PPM values ​​is a system that uses PPM sensors to measure nutrient concentrations in irrigation water. The measurement results data is then sent to the server via the Wi-Fi module. The server will process the data and determine whether fertilizer or water needs to be applied. If necessary, the server will send commands to Arduino to activate the fertilizer or water pump.
 
 This system has several advantages, including:
