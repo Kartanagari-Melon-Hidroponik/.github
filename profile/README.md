@@ -12,9 +12,12 @@
 
 Hello everyone 😊, we are from Team 1. We consist of 4 people and these are our team members.
 
-|               Name                |     Class     |                               Linkedin                                  |
-| :-------------------------------: | :-----------: | :---------------------------------------------------------------------: |
-|    Mochammad Wildan Alghifari     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/mochammad-wildan-alghifari/) |
+|            Name            | Class |                                  Linkedin                                  |
+| :------------------------: | :---: | :------------------------------------------------------------------------: |
+| Mochammad Wildan Alghifari | 4IA01 |  [**Linkedin**](https://www.linkedin.com/in/mochammad-wildan-alghifari/)   |
+|    Wine Nadira Maulana     | 3IA17 | [**Linkedin**](https://www.linkedin.com/in/wine-nadira-maulana-85aa5b229/) |
+|      Izzan Abdul Aziz      | 3IA26 |     [**Linkedin**](https://www.linkedin.com/in/izzan-abdul-2b09a322b/)     |
+|      Alif Dzaky Fatia      | 3IA06 |     [**Linkedin**](https://www.linkedin.com/in/alif-dzaky-32b983229/)      |
 
 <br>
 
@@ -27,6 +30,7 @@ Agriculture, Automatic Controller
 The IoT system for providing melon nutrition based on PPM values ​​is a system that uses PPM sensors to measure nutrient concentrations in irrigation water. The measurement results data is then sent to the server via the Wi-Fi module. The server will process the data and determine whether fertilizer or water needs to be applied. If necessary, the server will send commands to Arduino to activate the fertilizer or water pump.
 
 This system has several advantages, including:
-* Can provide proper nutrition according to plant needs.
-* Can save fertilizer and water costs.
-* Can reduce the risk of plant damage due to excessive fertilizer or water application.
+
+- Can provide proper nutrition according to plant needs.
+- Can save fertilizer and water costs.
+- Can reduce the risk of plant damage due to excessive fertilizer or water application.
